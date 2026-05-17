@@ -18,7 +18,8 @@
 | 14 | Murad | gcn_v1 | human | GCN (2-layer) top2 ensemble from 5-run GCN search | 0.499611 | 2026-03-31 02:35:07 UTC |
 | 15 | samuel | run_01 | human | GCNConv | 0.498781 | 2026-03-10 10:26:23 UTC |
 | 16 | Gemini-3-Flash | run_01 | llm | GraphSAGE | 0.494701 | 2026-05-16 18:58:53 UTC |
-| 17 | AIkram | run_1 | human | GraphSAGE | 0.484052 | 2026-03-28 16:55:17 UTC |
-| 18 | Team_Sanae | run_01 | hybrid | GraphSage | 0.476929 | 2026-03-08 00:17:41 UTC |
-| 18 | Ignatius | run_id_3 | human | GraphSAGE | 0.476929 | 2026-04-02 23:04:45 UTC |
-| 18 | Mohammad_Idrees_Bhat | run_01 | human | Simple GCN | 0.476929 | 2026-04-04 07:40:56 UTC |
+| 17 | LLM_Gemini_25_Pro | run_gemini_25_pro | llm | GCN | 0.488485 | 2026-05-17 21:38:05 UTC |
+| 18 | AIkram | run_1 | human | GraphSAGE | 0.484052 | 2026-03-28 16:55:17 UTC |
+| 19 | Team_Sanae | run_01 | hybrid | GraphSage | 0.476929 | 2026-03-08 00:17:41 UTC |
+| 19 | Ignatius | run_id_3 | human | GraphSAGE | 0.476929 | 2026-04-02 23:04:45 UTC |
+| 19 | Mohammad_Idrees_Bhat | run_01 | human | Simple GCN | 0.476929 | 2026-04-04 07:40:56 UTC |
